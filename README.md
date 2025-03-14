@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Nguyen Huu Trieu" />
+</h1>
 
-<!--
-**trieunguyenhuu/trieunguyenhuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm NguyenHuuTrieu, a **Future Data Engineer** | **Java Enthusiast**. 
 
-Here are some ideas to get you started:
+- 👨‍💻 Currently learning **Data Engineering, Java Backend & Cloud Technologies**  
+- 🎯 Passionate about **Big Data, Databases & Distributed Systems**  
+- 🚀 Exploring **Apache Spark, Kafka, and Data Pipelines**  
++ a lot more ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills    
+- 👨‍💻 Java, Python, SQL
+- ⚙️ Spring Boot
+- 💽 MySQL, SQL Server, Oracle
+- ☁️ AWS, Docker, Linux
+- 📊 Data Engineering: ETL, Apache Spark, Pandas
++ and more! 🚀
+
+## 📬 Contact me
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/trieu_nguyenhuu)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NgHuuTrieu45) 
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trieu_nguyenhuu/)
