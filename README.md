@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[nguyen_huu_trieu_image](https://github.com/trieunguyenhuu/trieunguyenhuu/blob/main/nguyen_huu_trieu_image)" alt="Nguyen Huu Trieu" />
+  <img src="https://raw.githubusercontent.com/trieunguyenhuu/trieunguyenhuu/main/assets/nguyen_huu_trieu.svg" alt="Nguyen Huu Trieu" />
 </h1>
 
 ## Hey! 👋
