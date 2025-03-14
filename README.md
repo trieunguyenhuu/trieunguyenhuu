@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Nguyen Huu Trieu" />
+  <img src="nguyen_huu_trieu_image" alt="Nguyen Huu Trieu" />
 </h1>
 
 ## Hey! 👋
