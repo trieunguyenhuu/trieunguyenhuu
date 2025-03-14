@@ -16,7 +16,7 @@ I'm NguyenHuuTrieu, a **Future Data Engineer** | **Java Enthusiast**.
 - 💽 MySQL, SQL Server, Oracle
 - ☁️ AWS, Docker, Linux
 - 📊 Data Engineering: ETL, Apache Spark, Pandas
-+ and more! 🚀
++ a lot more ;)
 
 ## 📬 Contact me
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/trieu_nguyenhuu)
