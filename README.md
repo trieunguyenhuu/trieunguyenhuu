@@ -11,7 +11,7 @@ I'm NguyenHuuTrieu, a **Future Data Engineer** | **Java Enthusiast**.
 + a lot more ;)
 
 ## 🚀 Skills    
-- 👨‍💻 Java, Python, SQL
+- 👨‍💻 Java, Python,C#, SQL
 - ⚙️ Spring Boot
 - 💽 MySQL, SQL Server, Oracle
 - ☁️ AWS, Docker, Linux
