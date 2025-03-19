@@ -3,12 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm NguyenHuuTrieu, a **Future Data Engineer** | **Java Enthusiast**. 
-
-- 👨‍💻 Currently learning **Data Engineering, Java Backend & Cloud Technologies**  
-- 🎯 Passionate about **Big Data, Databases & Distributed Systems**  
-- 🚀 Exploring **Apache Spark, Kafka, and Data Pipelines**  
-+ a lot more ;)
+I'm NguyenHuuTrieu.
 
 ## 🚀 Skills    
 - 👨‍💻 Java, Python,C#, SQL
