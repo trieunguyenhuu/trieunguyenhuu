@@ -7,7 +7,6 @@ I'm NguyenHuuTrieu.
 
 ## 🚀 Skills    
 - 👨‍💻 Java, Python,C#, SQL
-- ⚙️ Spring Boot
 - 💽 MySQL, SQL Server, Oracle
 - ☁️ AWS, Docker, Linux
 - 📊 Data Engineering: ETL, Apache Spark, Pandas
